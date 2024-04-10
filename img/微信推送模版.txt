@@ -1,0 +1,99 @@
+亲爱的{{beizhu.DATA}},你好，
+你已准备教资考试{{lianai.DATA}}天 
+距离2024年上半年教资考试还有{{shengri1.DATA}}天
+
+今天是{{riqi.DATA}} 
+沧州天气：{{tianqi.DATA}} 
+最低温度：{{low.DATA}} 度 
+最高温度：{{high.DATA}} 度 
+平均温度：{{temp.DATA}} 度 
+风力：{{winddir.DATA}}{{windclass.DATA}} 
+
+请铭记： 
+      犹豫不要懒惰！
+      不忘初心，方得始终。 
+      收集每一个快乐瞬间，用它们回击每一个糟糕的日子！
+
+E：{{en.DATA}} 
+C：{{zh.DATA}} 
+
+会发光的{{beizhu.DATA}}， 
+接下来请写下今天的ToDoList，开始新的一天！
+
+亲爱的{{beizhu.DATA}},早上好，
+今天是{{riqi.DATA}} 
+沧州天气：{{tianqi.DATA}} 
+最低温度：{{low.DATA}} 度 
+最高温度：{{high.DATA}} 度 
+平均温度：{{temp.DATA}} 度 
+风力：{{winddir.DATA}}{{windclass.DATA}} 
+
+我们已经在一起{{lianai.DATA}}天啦 ！
+距离阿白生日还有{{shengri1.DATA}}天
+距离窦瑜生日还有{{shengri2.DATA}}天
+
+阿白：{{caihongpi.DATA}}
+
+英语角：
+E：{{en.DATA}} 
+C：{{zh.DATA}} 
+
+会发光的{{beizhu.DATA}}， 
+接下来请保持开心，能量满满开始新的一天！
+
+~/.acme.sh/acme.sh --register-account -m 283129498@qq.com
+~/.acme.sh/acme.sh  --issue -d v.hkun.asia   --standalone
+
+-----BEGIN CERTIFICATE-----
+MIIEFTCCAv2gAwIBAgIUHhbT4LnG/kOuzqIYZ2+54o0ew9AwDQYJKoZIhvcNAQEL
+BQAwgagxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQH
+Ew1TYW4gRnJhbmNpc2NvMRkwFwYDVQQKExBDbG91ZGZsYXJlLCBJbmMuMRswGQYD
+VQQLExJ3d3cuY2xvdWRmbGFyZS5jb20xNDAyBgNVBAMTK01hbmFnZWQgQ0EgNjk5
+OTBhMzdjODJiMzkxYmUzMTJjZjRkNGIyMDlmYTQwHhcNMjMxMTEwMDEzNTAwWhcN
+MzMxMTA3MDEzNTAwWjAiMQswCQYDVQQGEwJVUzETMBEGA1UEAxMKQ2xvdWRmbGFy
+ZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKFtVywQ3WChUkA1Ffn0
+U1xLySHvn9hEqMb0UyGcpCFGw+3KKqQat5iSwH/nleUDeZXZKn/+76TqgEo/1Y0q
+C6Ub0PFjbYtXZqQTD3Ybhur8u+itSUpd6Fdf1vN4p813UfECFzepvdbOwhe3om+i
+MltPOxOmTWcZwfyTVEbx0/9/dS25sG8BAgMjkErRqia+kzhL4Je89AlhmL8B3haZ
+Pj9jbKwZiGaXL3/tMKJy56TGZzAY69Bn+qVWTRr4MgGA4O0BFWW4LzDwCPUT/f8+
+1aT/m14aQD61FH2pqdyfAwftvnFxEHm1GqzhTvSYsR5bWybmG34qcpn69TNG1T5l
+/8cCAwEAAaOBuzCBuDATBgNVHSUEDDAKBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBTZf5UVFBD3qYnO5Gt8TwwW1Fa1QjAfBgNVHSMEGDAWgBQIniht
+L2eT9QcZ57vYupme6zc2rTBTBgNVHR8ETDBKMEigRqBEhkJodHRwOi8vY3JsLmNs
+b3VkZmxhcmUuY29tLzNjMzlkNWIyLWNmZmYtNGMzNS05N2YxLTY3ODA0Zjk1Nzg1
+OS5jcmwwDQYJKoZIhvcNAQELBQADggEBADHAFInCJb/7Yz7als9Uc0tr3QfM/xyj
+ZGRYkJXw768yIZ2WXqMiOv6qlg2XhgnbelxwBpnrUW/xKEkbwjyLS47uNwBMaaqi
+jaom/aNqZAiS4Sch5Ctj6bDMWWLpgnRhM3xHXGQGLqryrQh+LyneGaFZDfjj5Xdt
+4dyOXD7wyii4gi3Xn+aRHpInxKLxgpS3vDVhrJJsT2PPGEWG79fgf2xMgZsfz5ZN
+ety3dps5CFLA+r6XIGKpp54BLCTHe1ElkrSDxTHGV+tKYVNbJwS5FR/qqOg7b1Z5
++0GpcUKND6sbDYwPYyLp49PedDtfNFv8Fhww2ZAu7OzPQDv9gah+OsU=
+-----END CERTIFICATE-----
+
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChbVcsEN1goVJA
+NRX59FNcS8kh75/YRKjG9FMhnKQhRsPtyiqkGreYksB/55XlA3mV2Sp//u+k6oBK
+P9WNKgulG9DxY22LV2akEw92G4bq/LvorUlKXehXX9bzeKfNd1HxAhc3qb3WzsIX
+t6JvojJbTzsTpk1nGcH8k1RG8dP/f3UtubBvAQIDI5BK0aomvpM4S+CXvPQJYZi/
+Ad4WmT4/Y2ysGYhmly9/7TCicuekxmcwGOvQZ/qlVk0a+DIBgODtARVluC8w8Aj1
+E/3/PtWk/5teGkA+tRR9qancnwMH7b5xcRB5tRqs4U70mLEeW1sm5ht+KnKZ+vUz
+RtU+Zf/HAgMBAAECggEAHtfvcgH+6nmoZ5A9FLc0PkxUr+FDH2VvAiSoxaFSUvFc
+elDIePaJ4eMYWNf88fcKAjGuRyqEy3Pq80TjHsfL1c5My/J9ecRHXk4uBBkaXEfR
+95E0kbsDq74qKfcByOZlh7EokoAiP6rdtv5lUQMisAOhfA2oeGyZfhMAZVXLdeOs
+xo9hNh7aSE83v1RrXFMrdaBybt+L/WDxPK3+PgH13gvFNCe213g8xekXekRjJ2i/
+Sbk1TGbtK/+WGcRLxAxrFBVSL0TXbCMIneQlRezsyPnOs1b99X3EElahMgybTk29
+smcbQZEB4LqVgcs0LTMyeQc2wXJx8kaoX+LRf0tSoQKBgQDXNkaY68J6T917syW7
+iIvt+7KguYOi9VCZ0HgZGJZgmfHANMGgt9OJ+y1VOP2VZfEpP7Ju2EDf64hjl84a
+wMQ86fzlaP1oqgpn38fPFRk1kGxB0QOhTv5h5nQpxm1yBTCf2M0+yd7iqeH/iEJ3
+3e5vGUGsSkmZzCN0QEOpCop5vwKBgQDABYMK+GMd27jklCbeSdXAkxQoXxAAjQj4
+HHieWl+FSX6HIw3rDVtrATcj1nfzL1ajad5Z2r/pZVrkX6pdvJ+1tL+c3ClnhibU
+itXJ4PvnrWcoDZsSUAK3qJzqbC9pne2nUqoACkaXKd9Uux0QEbQId0M1AWXeOjlA
+8siXvF2r+QKBgQCQsR8Z5Thlv5hreHDf+tgJcvYP9Wo5f7FnGLAGP2+rFxVgYpfk
+FHOXC1bZO23Sqi1PzFGNELvdUJ/sRb3+YqgNREwReVsWqWxBlkTiR48hYi5Gud40
+78U70RM8mvoudKrSbZLgqhy+S/V0NgpqSL3r2BE9YtzFGGil2icjWcDsRQKBgCvD
+FdJyOWScps6xVQpkGWsCGh35TFRT0C97jaHJRuvBjCyQOKPRL3x7km2Ae2XY7A3i
+GuKvj/1JNCXIB7PFQUDQKLs/EdCeKktWONMBi2eJhXEDaMwLoBLrQpfKgCO58men
+10abEOtyh4tv+XeoETe8tnxmDSlQa6v5qO2r6E1BAoGAKuOePI2Am8TpDQGI/7iw
+ZjlCOaVYqb8gP8Vfvn2lYc0v7IsThSdQ/SGsECW3o+Ufrpmlrr+SFin4LVagOgR0
+Q7gXGNvqcd5ceboAiuTJMhHWVf1W0r6AQqDKBs59SkzcceU9YhYISOjwcBAZMUmZ
+j3R3djFJ7Y16Y/rsgfZkUnY=
+-----END PRIVATE KEY-----
